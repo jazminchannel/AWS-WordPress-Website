@@ -9,6 +9,6 @@ In this project, I created a Wordpress blog website in AWS using a AMI I created
 
 ## Application Breakdown
 
-The application is broken down into the architecture below:
+The application is broken down into the architecture below: http://wordpress.jazminjonescloud.com/
 
 ![wordpress](https://github.com/jazminchannel/images/blob/main/wordpressv2)
