@@ -11,4 +11,4 @@ In this project, I created a Wordpress blog website in AWS using a AMI I created
 
 The application is broken down into the architecture below: http://wordpress.jazminjonescloud.com/
 
-![wordpress](https://github.com/jazminchannel/images/blob/main/wordpressv2)
+![wordpress](https://github.com/jazminchannel/AWS-WordPress-Website/blob/main/GetImage%20(1).png)
